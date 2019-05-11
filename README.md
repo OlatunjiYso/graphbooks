@@ -3,6 +3,8 @@ A simple book collections using Awesome Graphql on the server and client side ðŸ
 
 ## Features 
 - Adding a new book
+- Adding new authors
+- Getting all books by an author
 - view book details
 - Viewing all books
 
